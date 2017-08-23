@@ -1,0 +1,10 @@
+DROP TABLE car;
+DROP TABLE engine;
+DROP TABLE air_intake;
+DROP TABLE ecu;
+DROP TABLE engine_pullys;
+DROP TABLE forced_induction;
+DROP TABLE suspension;
+DROP TABLE tires;
+DROP TABLE wheels;
+DROP TABLE transmission;
